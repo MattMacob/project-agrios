@@ -1,13 +1,13 @@
 Before opening or amending any of these files, please be sure to have the correct programs, as listed below. Please add to this list if a new program is used. 
 
 Images:
- - Paint
- - GIMP
+ - Paint (.png)
+ - GIMP (.xcf)
 
 Maps:
- - Inkarnate (web)
- - Canvas of Kings
+ - Inkarnate (.ink)
+ - Canvas of Kings (.json)
 
 Text:
- - Notepad
- - WordPad 
+ - Notepad (.txt)
+ - WordPad (.rtf)
