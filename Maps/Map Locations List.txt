@@ -6,7 +6,12 @@ B1.
 
 The Brynnemark:
 https://en.wikipedia.org/wiki/Norman_toponymy
-C1.
+C1. Brynnecourt
+C2. Nouville
+C3. Valcav Mine
+C4. 
+C5. 
+C6. 
 
 Fiefdom of Donfast:
 D1.
@@ -40,7 +45,15 @@ Pytor's Plot:
 G1.
 
 South Agrios:
-H1.
+H1. South Argian Refugee Camp
+H2. Westflume Bridge Ruins
 
 Swendlvan:
-I1.
+https://en.wikipedia.org/wiki/List_of_Old_Norse_exonyms
+I1. Fisherman's Shack
+I2. Swenld Nomad Village
+I3. Kaldsverd Ancestral Crypt
+I4. Doumsig Cultists' Camp
+I5. The Norspire
+I6. Dourscliff Tower
+I7. Morcrag Cave
