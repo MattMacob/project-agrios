@@ -12,5 +12,5 @@ Maps:
  - Canvas of Kings (.json)
 
 Text:
- - Notepad (.txt)
+ - Notepad++ (.txt)
  - WordPad (.rtf)
